@@ -1,0 +1,11 @@
+# build output
+gbemu
+src/*.o
+
+# screenshots taken at runtime
+*.bmp
+*.sav
+
+# editor junk
+*.swp
+*~
